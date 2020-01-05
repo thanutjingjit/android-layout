@@ -21,7 +21,7 @@
     <View
         android:layout_width="64dp"
         android:layout_height="64dp"
-        android:background="#8BFF00"
+        android:background="#000000"
         android:layout_below="@+id/viewyello"
 
         />
